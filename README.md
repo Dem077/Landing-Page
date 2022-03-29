@@ -1,7 +1,7 @@
 # Landing-Page
 
 ## Links
-- [Try Landing Page here!](https://Appletri.github.io/landing-page/)
+- [Try Landing Page here!](https://Dem077.github.io/landing-page/)
 
 - [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page)
 
